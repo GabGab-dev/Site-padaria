@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #bb915e;
+  }
+
+.imagem {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+section {
+  background-color: #98672c;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+.pao{
+  margin-left: 80px;
+}
+
+section ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding-bottom: 40px;
+}
+
+ul a {
+  margin-right: 10px;
+}
+
+button {
+  background-color: #ae7733;
+  color: white;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  border-radius: 0.40rem;
+}
+
+.button :hover {
+  background-color: #d08429;
+}
+
+
+.fundotext {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+}
+
+.paotext {
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+.textsobre {
+  font-family: style;
+  color: #261301;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.cardapiofundo {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.cardapio {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+
+.buttonM :hover {
+  background-color: #d08429;
+}
+
