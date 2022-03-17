@@ -5,6 +5,10 @@ body {
     background-color: #bb915e;
   }
 
+  .backk {
+    background-color: #bb915e;
+  }
+
 .imagem {
     display: flex;
     margin-left: auto;
@@ -47,7 +51,6 @@ button {
   background-color: #d08429;
 }
 
-
 .fundotext {
   padding-top: 10px;
   padding-bottom: 10px;
@@ -85,3 +88,25 @@ button {
   background-color: #d08429;
 }
 
+table {
+  background-color: #ae7733;
+  color: #000000;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: #160d01;
+  padding: 2px;
+  padding-top: 10px;
+  border-radius: 0.50rem;
+}
+
+.tamanho {
+  width: 700px;
+  height: 500px;
+}
+
+.sla {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto; 
+  border-radius: 0.50rem;
+}
